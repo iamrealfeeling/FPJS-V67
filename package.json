@@ -1,0 +1,12 @@
+{
+  "name": "fpjsv67",
+  "version": "1.0.0",
+  "description": "Brawl Stars V67 server — Node.js",
+  "main": "Server.js",
+  "scripts": {
+    "start": "node Server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
