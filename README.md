@@ -15,6 +15,10 @@ node Server.js
 
 The server listens on `0.0.0.0:9339`.
 
+## Screenshot
+
+![screenshot](Screens/Screenshot_20260511-133446.png)
+
 ## Project structure
 
 ```
